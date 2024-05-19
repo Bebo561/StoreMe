@@ -24,8 +24,8 @@ else {
     <nav class="bg-dark" id="MobileNavbar">
         <div class="nav-item" id="Header">StoreMe</div>
         <div id="NavbarClose" @onclick="HamburgerToggle" >X</div>
-        <a class="nav-item" href="" id="MobileNavItem">Home</a>
-        <a class="nav-item" href="counter" id="MobileNavItem">Counter</a>
+        <a class="nav-item" href="" @onclick="HamburgerToggle" id="MobileNavItem">Home</a>
+        <a class="nav-item" href="counter" @onclick="HamburgerToggle" id="MobileNavItem">Counter</a>
     </nav>
 }
 
