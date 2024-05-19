@@ -1,0 +1,27 @@
+#SignInput[b-z8g3xfwycl]::placeholder{
+    color: rgb(218, 216, 216);
+}
+
+#SignInput:focus[b-z8g3xfwycl]{
+    outline:none;
+}
+
+form[b-z8g3xfwycl]{
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1), 
+                0 6px 20px rgba(0, 0, 0, 0.1);
+}
+
+div[b-z8g3xfwycl]{
+    height: 90vh;
+}
+
+@media screen and (max-width: 480px){
+    #SignForm[b-z8g3xfwycl] {
+        width: 75vw !important;
+    }
+
+    #SignForm input[b-z8g3xfwycl]{
+        width: 50% !important;
+        font-size: 14px !important;
+    }
+}

@@ -2,17 +2,17 @@
 
 <PageTitle>Sign In</PageTitle>
 
-<div class="d-flex justify-content-center align-items-center h-75 w-100 position-absolute">
-    <form class="d-flex justify-content-center align-items-center flex-column w-25 border border-black h-75">
-        <h1>Sign In</h1>
+<div class="d-flex justify-content-center align-items-center w-100 ">
+    <form id="SignForm" class="d-flex z-0 justify-content-center align-items-center bg-light flex-column w-25 border border-black h-75 rounded">
+        <h1 class="fs-1 mb-3 fw-bold font-monospace">Sign In</h1>
 
-        <label>Email</label>
-        <input type="email" @bind="email" />
+        <label class="fs-4 mb-2 fw-medium font-monospace">Email</label>
+        <input id="SignInput" type="email" placeholder="user@example.com" @bind="email" class="mb-3 w-50 bg-light border-top-0 border-end-0 border-start-0"/>
 
-        <label>Password</label>
-        <input type="password" @bind="password"/>
+        <label class="fs-4 mb-2 fw-medium font-monospace">Password</label>
+        <input id="SignInput" type="password" placeholder="****" @bind="password" class="mb-3 border-top-0 w-50 bg-light border-end-0 border-start-0 text-align-left"/>
 
-        <button>Sign In</button>
+        <button class="mt-5 btn btn-lg btn-outline-primary">Sign In</button>
     </form>
 </div>
 
