@@ -1,0 +1,62 @@
+/Users/carlodavidsoto/Desktop/Vscode/untitled folder/StoreMe/bin/Debug/net7.0/appsettings.Development.json
+/Users/carlodavidsoto/Desktop/Vscode/untitled folder/StoreMe/bin/Debug/net7.0/appsettings.json
+/Users/carlodavidsoto/Desktop/Vscode/untitled folder/StoreMe/bin/Debug/net7.0/StoreMe.staticwebassets.runtime.json
+/Users/carlodavidsoto/Desktop/Vscode/untitled folder/StoreMe/bin/Debug/net7.0/StoreMe
+/Users/carlodavidsoto/Desktop/Vscode/untitled folder/StoreMe/bin/Debug/net7.0/StoreMe.deps.json
+/Users/carlodavidsoto/Desktop/Vscode/untitled folder/StoreMe/bin/Debug/net7.0/StoreMe.runtimeconfig.json
+/Users/carlodavidsoto/Desktop/Vscode/untitled folder/StoreMe/bin/Debug/net7.0/StoreMe.dll
+/Users/carlodavidsoto/Desktop/Vscode/untitled folder/StoreMe/bin/Debug/net7.0/StoreMe.pdb
+/Users/carlodavidsoto/Desktop/Vscode/untitled folder/StoreMe/obj/Debug/net7.0/StoreMe.GeneratedMSBuildEditorConfig.editorconfig
+/Users/carlodavidsoto/Desktop/Vscode/untitled folder/StoreMe/obj/Debug/net7.0/StoreMe.AssemblyInfoInputs.cache
+/Users/carlodavidsoto/Desktop/Vscode/untitled folder/StoreMe/obj/Debug/net7.0/StoreMe.AssemblyInfo.cs
+/Users/carlodavidsoto/Desktop/Vscode/untitled folder/StoreMe/obj/Debug/net7.0/StoreMe.csproj.CoreCompileInputs.cache
+/Users/carlodavidsoto/Desktop/Vscode/untitled folder/StoreMe/obj/Debug/net7.0/StoreMe.MvcApplicationPartsAssemblyInfo.cache
+/Users/carlodavidsoto/Desktop/Vscode/untitled folder/StoreMe/obj/Debug/net7.0/StoreMe.RazorAssemblyInfo.cache
+/Users/carlodavidsoto/Desktop/Vscode/untitled folder/StoreMe/obj/Debug/net7.0/StoreMe.RazorAssemblyInfo.cs
+/Users/carlodavidsoto/Desktop/Vscode/untitled folder/StoreMe/obj/Debug/net7.0/staticwebassets.build.json
+/Users/carlodavidsoto/Desktop/Vscode/untitled folder/StoreMe/obj/Debug/net7.0/staticwebassets.development.json
+/Users/carlodavidsoto/Desktop/Vscode/untitled folder/StoreMe/obj/Debug/net7.0/staticwebassets/msbuild.StoreMe.Microsoft.AspNetCore.StaticWebAssets.props
+/Users/carlodavidsoto/Desktop/Vscode/untitled folder/StoreMe/obj/Debug/net7.0/staticwebassets/msbuild.build.StoreMe.props
+/Users/carlodavidsoto/Desktop/Vscode/untitled folder/StoreMe/obj/Debug/net7.0/staticwebassets/msbuild.buildMultiTargeting.StoreMe.props
+/Users/carlodavidsoto/Desktop/Vscode/untitled folder/StoreMe/obj/Debug/net7.0/staticwebassets/msbuild.buildTransitive.StoreMe.props
+/Users/carlodavidsoto/Desktop/Vscode/untitled folder/StoreMe/obj/Debug/net7.0/staticwebassets.pack.json
+/Users/carlodavidsoto/Desktop/Vscode/untitled folder/StoreMe/obj/Debug/net7.0/scopedcss/Shared/MainLayout.razor.rz.scp.css
+/Users/carlodavidsoto/Desktop/Vscode/untitled folder/StoreMe/obj/Debug/net7.0/scopedcss/Shared/NavMenu.razor.rz.scp.css
+/Users/carlodavidsoto/Desktop/Vscode/untitled folder/StoreMe/obj/Debug/net7.0/scopedcss/bundle/StoreMe.styles.css
+/Users/carlodavidsoto/Desktop/Vscode/untitled folder/StoreMe/obj/Debug/net7.0/scopedcss/projectbundle/StoreMe.bundle.scp.css
+/Users/carlodavidsoto/Desktop/Vscode/untitled folder/StoreMe/obj/Debug/net7.0/StoreMe.dll
+/Users/carlodavidsoto/Desktop/Vscode/untitled folder/StoreMe/obj/Debug/net7.0/refint/StoreMe.dll
+/Users/carlodavidsoto/Desktop/Vscode/untitled folder/StoreMe/obj/Debug/net7.0/StoreMe.pdb
+/Users/carlodavidsoto/Desktop/Vscode/untitled folder/StoreMe/obj/Debug/net7.0/StoreMe.genruntimeconfig.cache
+/Users/carlodavidsoto/Desktop/Vscode/untitled folder/StoreMe/obj/Debug/net7.0/ref/StoreMe.dll
+/Users/carlodavidsoto/Desktop/Vscode/StoreMe/StoreMe/bin/Debug/net7.0/appsettings.Development.json
+/Users/carlodavidsoto/Desktop/Vscode/StoreMe/StoreMe/bin/Debug/net7.0/appsettings.json
+/Users/carlodavidsoto/Desktop/Vscode/StoreMe/StoreMe/bin/Debug/net7.0/StoreMe.staticwebassets.runtime.json
+/Users/carlodavidsoto/Desktop/Vscode/StoreMe/StoreMe/bin/Debug/net7.0/StoreMe
+/Users/carlodavidsoto/Desktop/Vscode/StoreMe/StoreMe/bin/Debug/net7.0/StoreMe.deps.json
+/Users/carlodavidsoto/Desktop/Vscode/StoreMe/StoreMe/bin/Debug/net7.0/StoreMe.runtimeconfig.json
+/Users/carlodavidsoto/Desktop/Vscode/StoreMe/StoreMe/bin/Debug/net7.0/StoreMe.dll
+/Users/carlodavidsoto/Desktop/Vscode/StoreMe/StoreMe/bin/Debug/net7.0/StoreMe.pdb
+/Users/carlodavidsoto/Desktop/Vscode/StoreMe/StoreMe/obj/Debug/net7.0/StoreMe.GeneratedMSBuildEditorConfig.editorconfig
+/Users/carlodavidsoto/Desktop/Vscode/StoreMe/StoreMe/obj/Debug/net7.0/StoreMe.AssemblyInfoInputs.cache
+/Users/carlodavidsoto/Desktop/Vscode/StoreMe/StoreMe/obj/Debug/net7.0/StoreMe.AssemblyInfo.cs
+/Users/carlodavidsoto/Desktop/Vscode/StoreMe/StoreMe/obj/Debug/net7.0/StoreMe.csproj.CoreCompileInputs.cache
+/Users/carlodavidsoto/Desktop/Vscode/StoreMe/StoreMe/obj/Debug/net7.0/StoreMe.MvcApplicationPartsAssemblyInfo.cache
+/Users/carlodavidsoto/Desktop/Vscode/StoreMe/StoreMe/obj/Debug/net7.0/StoreMe.RazorAssemblyInfo.cache
+/Users/carlodavidsoto/Desktop/Vscode/StoreMe/StoreMe/obj/Debug/net7.0/StoreMe.RazorAssemblyInfo.cs
+/Users/carlodavidsoto/Desktop/Vscode/StoreMe/StoreMe/obj/Debug/net7.0/staticwebassets/msbuild.StoreMe.Microsoft.AspNetCore.StaticWebAssets.props
+/Users/carlodavidsoto/Desktop/Vscode/StoreMe/StoreMe/obj/Debug/net7.0/staticwebassets/msbuild.build.StoreMe.props
+/Users/carlodavidsoto/Desktop/Vscode/StoreMe/StoreMe/obj/Debug/net7.0/staticwebassets/msbuild.buildMultiTargeting.StoreMe.props
+/Users/carlodavidsoto/Desktop/Vscode/StoreMe/StoreMe/obj/Debug/net7.0/staticwebassets/msbuild.buildTransitive.StoreMe.props
+/Users/carlodavidsoto/Desktop/Vscode/StoreMe/StoreMe/obj/Debug/net7.0/staticwebassets.pack.json
+/Users/carlodavidsoto/Desktop/Vscode/StoreMe/StoreMe/obj/Debug/net7.0/staticwebassets.build.json
+/Users/carlodavidsoto/Desktop/Vscode/StoreMe/StoreMe/obj/Debug/net7.0/staticwebassets.development.json
+/Users/carlodavidsoto/Desktop/Vscode/StoreMe/StoreMe/obj/Debug/net7.0/scopedcss/Shared/MainLayout.razor.rz.scp.css
+/Users/carlodavidsoto/Desktop/Vscode/StoreMe/StoreMe/obj/Debug/net7.0/scopedcss/Shared/NavMenu.razor.rz.scp.css
+/Users/carlodavidsoto/Desktop/Vscode/StoreMe/StoreMe/obj/Debug/net7.0/scopedcss/bundle/StoreMe.styles.css
+/Users/carlodavidsoto/Desktop/Vscode/StoreMe/StoreMe/obj/Debug/net7.0/scopedcss/projectbundle/StoreMe.bundle.scp.css
+/Users/carlodavidsoto/Desktop/Vscode/StoreMe/StoreMe/obj/Debug/net7.0/StoreMe.dll
+/Users/carlodavidsoto/Desktop/Vscode/StoreMe/StoreMe/obj/Debug/net7.0/refint/StoreMe.dll
+/Users/carlodavidsoto/Desktop/Vscode/StoreMe/StoreMe/obj/Debug/net7.0/StoreMe.pdb
+/Users/carlodavidsoto/Desktop/Vscode/StoreMe/StoreMe/obj/Debug/net7.0/StoreMe.genruntimeconfig.cache
+/Users/carlodavidsoto/Desktop/Vscode/StoreMe/StoreMe/obj/Debug/net7.0/ref/StoreMe.dll

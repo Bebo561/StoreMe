@@ -1,0 +1,33 @@
+﻿@code {
+    private bool isOpen = false;
+
+    private void HamburgerToggle()
+    {
+        isOpen = !isOpen;
+    }
+}
+
+@if (!isOpen){
+    <nav class="d-flex bg-dark" id="Navbar">
+        <svg width="35px" @onclick="HamburgerToggle" height="35px" id="Hamburger" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+        <path d="M4 18L20 18" stroke="#FFFFFF" stroke-width="2" stroke-linecap="round"/>
+        <path d="M4 12L20 12" stroke="#FFFFFF" stroke-width="2" stroke-linecap="round"/>
+        <path d="M4 6L20 6" stroke="#FFFFFF" stroke-width="2" stroke-linecap="round"/>
+        </svg>
+        <div class="nav-item" id="Header">StoreMe</div>
+        <a class="nav-item" href="" id="NavItem">Home</a>
+        <a class="nav-item" href="counter" id="NavItem">Counter</a>
+    </nav>
+}
+
+else {
+    <nav class="bg-dark" id="MobileNavbar">
+        <div class="nav-item" id="Header">StoreMe</div>
+        <div id="NavbarClose" @onclick="HamburgerToggle" >X</div>
+        <a class="nav-item" href="" id="MobileNavItem">Home</a>
+        <a class="nav-item" href="counter" id="MobileNavItem">Counter</a>
+    </nav>
+}
+
+
+
