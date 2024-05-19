@@ -1,9 +1,15 @@
-﻿@code {
+﻿@inject NavigationManager Navigation
+@code {
     private bool isOpen = false;
 
     private void HamburgerToggle()
     {
         isOpen = !isOpen;
+    }
+
+    private void RedirectToSignIn()
+    {
+        Navigation.NavigateTo("/SignIn");
     }
 }
 
@@ -17,6 +23,7 @@
         <div class="nav-item" id="Header">StoreMe</div>
         <a class="nav-item" href="" id="NavItem">Home</a>
         <a class="nav-item" href="counter" id="NavItem">Counter</a>
+        <button id="LoginButton" @onclick="RedirectToSignIn">Sign In</button>
     </nav>
 }
 
@@ -26,6 +33,7 @@ else {
         <div id="NavbarClose" @onclick="HamburgerToggle" >X</div>
         <a class="nav-item" href="" @onclick="HamburgerToggle" id="MobileNavItem">Home</a>
         <a class="nav-item" href="counter" @onclick="HamburgerToggle" id="MobileNavItem">Counter</a>
+        <button id="LoginButton" >Sign In</button>
     </nav>
 }
 

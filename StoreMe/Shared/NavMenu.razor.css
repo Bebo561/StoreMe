@@ -21,7 +21,7 @@
     height: 5vh;
     width: 7vw;
     text-decoration: none;
-    margin-left: 5vw;
+    margin-left: 3vw;
     display: flex;
     align-items: center;
     justify-content: center;
@@ -33,6 +33,22 @@
     border-radius: 20px;
 }
 
+#LoginButton{
+    width: 7vw;
+    height: 5vh;
+    background-color: rgb(46, 120, 225);
+    right: 0;
+    color: white;
+    border: none;
+    border-radius: 16px;
+    margin-left: auto;
+    margin-right: 2vw;
+}
+
+#LoginButton:hover{
+    background-color: rgb(55, 130, 236);
+}
+
 #MobileNavbar{
     width: 100%;
     text-align: center;
@@ -40,7 +56,8 @@
     flex-direction: column;
     top: 0;
     position: fixed;
-    animation: expandNavbar 0.5s forwards ease-in-out;
+    overflow: hidden;
+    animation: expandNavbar 1s forwards ease-in-out;
 }
 
 #NavbarClose{
@@ -82,6 +99,10 @@
     width: 100%;
    }
 
+   #Navbar #LoginButton{
+    display: none;
+   }
+
    #Header{
     padding-left: 0;
     font-size: 2.4rem;
@@ -89,6 +110,15 @@
 
    #NavItem{
     display: none;
+   }
+
+   #LoginButton{
+    margin-top: 7vh;
+    width: 25vw;
+    height: 7vh;
+    margin-right: auto;
+    margin-left: auto;
+    border-radius: 10px;
    }
 
    #Hamburger{

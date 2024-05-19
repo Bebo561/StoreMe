@@ -27,7 +27,7 @@
     height: 5vh;
     width: 7vw;
     text-decoration: none;
-    margin-left: 5vw;
+    margin-left: 3vw;
     display: flex;
     align-items: center;
     justify-content: center;
@@ -39,6 +39,22 @@
     border-radius: 20px;
 }
 
+#LoginButton[b-sqlnzzhpqp]{
+    width: 7vw;
+    height: 5vh;
+    background-color: rgb(46, 120, 225);
+    right: 0;
+    color: white;
+    border: none;
+    border-radius: 16px;
+    margin-left: auto;
+    margin-right: 2vw;
+}
+
+#LoginButton:hover[b-sqlnzzhpqp]{
+    background-color: rgb(55, 130, 236);
+}
+
 #MobileNavbar[b-sqlnzzhpqp]{
     width: 100%;
     text-align: center;
@@ -46,7 +62,8 @@
     flex-direction: column;
     top: 0;
     position: fixed;
-    animation: expandNavbar-b-sqlnzzhpqp 0.5s forwards ease-in-out;
+    overflow: hidden;
+    animation: expandNavbar-b-sqlnzzhpqp 1s forwards ease-in-out;
 }
 
 #NavbarClose[b-sqlnzzhpqp]{
@@ -88,6 +105,10 @@
     width: 100%;
    }
 
+   #Navbar #LoginButton[b-sqlnzzhpqp]{
+    display: none;
+   }
+
    #Header[b-sqlnzzhpqp]{
     padding-left: 0;
     font-size: 2.4rem;
@@ -95,6 +116,15 @@
 
    #NavItem[b-sqlnzzhpqp]{
     display: none;
+   }
+
+   #LoginButton[b-sqlnzzhpqp]{
+    margin-top: 7vh;
+    width: 25vw;
+    height: 7vh;
+    margin-right: auto;
+    margin-left: auto;
+    border-radius: 10px;
    }
 
    #Hamburger[b-sqlnzzhpqp]{

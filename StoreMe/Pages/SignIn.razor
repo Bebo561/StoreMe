@@ -1,0 +1,22 @@
+@page "/SignIn"
+
+<PageTitle>Sign In</PageTitle>
+
+<div class="d-flex justify-content-center align-items-center h-75 w-100 position-absolute">
+    <form class="d-flex justify-content-center align-items-center flex-column w-25 border border-black h-75">
+        <h1>Sign In</h1>
+
+        <label>Email</label>
+        <input type="email" @bind="email" />
+
+        <label>Password</label>
+        <input type="password" @bind="password"/>
+
+        <button>Sign In</button>
+    </form>
+</div>
+
+@code {
+    private string email = "";
+    private string password = "";
+}
