@@ -60,3 +60,4 @@
 /Users/carlodavidsoto/Desktop/Vscode/StoreMe/StoreMe/obj/Debug/net7.0/StoreMe.pdb
 /Users/carlodavidsoto/Desktop/Vscode/StoreMe/StoreMe/obj/Debug/net7.0/StoreMe.genruntimeconfig.cache
 /Users/carlodavidsoto/Desktop/Vscode/StoreMe/StoreMe/obj/Debug/net7.0/ref/StoreMe.dll
+/Users/carlodavidsoto/Desktop/Vscode/StoreMe/StoreMe/obj/Debug/net7.0/scopedcss/Pages/Counter.razor.rz.scp.css

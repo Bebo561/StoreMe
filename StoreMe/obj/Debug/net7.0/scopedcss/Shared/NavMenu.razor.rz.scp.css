@@ -3,6 +3,8 @@
     width: 100%;
     text-align: center;
     align-items: center;
+    top: 0;
+    position: absolute;
     border-bottom: 1px solid black;
 }
 
@@ -17,10 +19,12 @@
 
 #NavItem[b-sqlnzzhpqp]{
     height: 5vh;
+    width: 7vw;
     text-decoration: none;
-    padding-left: 5vw;
+    margin-left: 5vw;
     display: flex;
     align-items: center;
+    justify-content: center;
     color: white;
 }
 
@@ -34,8 +38,9 @@
     text-align: center;
     display: flex;
     flex-direction: column;
+    top: 0;
     position: fixed;
-    animation: expandNavbar-b-sqlnzzhpqp 1s forwards ease-in-out;
+    animation: expandNavbar-b-sqlnzzhpqp 0.5s forwards ease-in-out;
 }
 
 #NavbarClose[b-sqlnzzhpqp]{
