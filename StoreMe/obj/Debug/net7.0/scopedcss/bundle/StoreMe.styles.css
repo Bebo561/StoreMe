@@ -13,7 +13,24 @@ form[b-z8g3xfwycl]{
 }
 
 div[b-z8g3xfwycl]{
-    height: 90vh;
+    margin-top: -10vh !important;
+}
+
+#banner[b-z8g3xfwycl]{
+    margin-top: 0 !important;
+    top: 0;
+    height: 10vh;
+    border-bottom: 1px solid black;
+}
+
+#banner h1:hover[b-z8g3xfwycl]{
+    cursor:pointer;
+}
+
+#SignUpRedirect:hover[b-z8g3xfwycl]{
+    color: blue !important;
+    cursor: pointer;
+    text-decoration: underline;
 }
 
 @media screen and (max-width: 480px){

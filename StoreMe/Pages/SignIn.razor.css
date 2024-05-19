@@ -12,7 +12,24 @@ form{
 }
 
 div{
-    height: 90vh;
+    margin-top: -10vh !important;
+}
+
+#banner{
+    margin-top: 0 !important;
+    top: 0;
+    height: 10vh;
+    border-bottom: 1px solid black;
+}
+
+#banner h1:hover{
+    cursor:pointer;
+}
+
+#SignUpRedirect:hover{
+    color: blue !important;
+    cursor: pointer;
+    text-decoration: underline;
 }
 
 @media screen and (max-width: 480px){
